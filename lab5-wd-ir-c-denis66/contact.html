@@ -1,0 +1,100 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+    <meta charset="utf-8"><title>Contact page</title>
+
+</head>
+<body>
+    <header>
+    <h1>Contact form</h1>
+<a href="#main-content" class="skip-link">Skip to main content</a>
+<nav aria-label="Main navigation">
+  <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="contact.html">Contact</a></li>
+  </ul>
+</nav>
+</header>
+<main id="main-content">
+  <h1>Contact</h1>
+  <section>
+    <form method="post" action="#" aria-label="Contact form">
+      <fieldset>
+        <legend>Your details</legend>
+        <label for="name">Full name (required)</label>
+        <input type="text" id="name" name="name" required>
+        <label for="email">Email (required)</label>
+        <input type="email" id="email" name="email" required>
+        <label for="tel">Phone number (required)</label>
+        <input type="tel" id="tel" name="tel" required>
+      </fieldset>
+      <fieldset>
+        <legend>Your message</legend>
+        <label for="subject">Subject (required)</label>
+        <input type="text" id="subject" name="subject" required
+               aria-describedby="subject-hint">
+        <p id="subject-hint" class="form-hint">e.g. Lab 2, schedule, grading</p>
+        <label for="msg">Message (required)</label>
+        <textarea id="msg" name="message" rows="5" required></textarea>
+      </fieldset>
+      <fieldset>
+        <legend>How did you hear about us?</legend>
+        <label for="hear-course">Course / university</label>
+        <input type="radio" id="hear-course" name="hear" value="course">
+        <label for="hear-search">Search / web</label>
+        <input type="radio" id="hear-search" name="hear" value="search">
+        <label for="hear-other">Other</label>
+        <input type="radio" id="hear-other" name="hear" value="other">
+      </fieldset>
+      <fieldset>
+        <legend>Will you be coming back?</legend>
+        <label for="return-yes"> Yes </label>
+        <input type="radio" id="return-yes" name="return" value="yes">
+        <label for="return-no"> No </label>
+        <input type="radio" id="return-no" name="return" value="no">
+      </fieldset>
+      <button type="submit">Send message</button>
+    </form>
+    <br><br>
+    
+    <table border="1">
+      <caption>Messages Recieved</caption>
+      <th>ID</th>
+      <th>Name</th>
+      <th>Email</th>
+      <th>Message</th>
+      <th>Date</th>
+      <th>Priority</th>
+      <tr>
+        <td>1</td>
+        <td>Alice</td>
+        <td>alice@gmail.com</td>
+        <td>Hey! Just finished Lab 1</td>
+        <td>01.01.2026</td>
+        <td><input type="checkbox"></td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td rowspan="3">Bob</td>
+        <td rowspan="3">bob@e-uvt.ro</td>
+        <td>Hey, how's it going?</td>
+        <td>09.02.2026</td>
+        <td><input type="checkbox"></td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>Do you know the deadline for Lab 3?</td>
+        <td>09.02.2026</td>
+        <td><input type="checkbox"></td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>Can someone share the example solution </br>for Lab 3?</td>
+        <td>21.02.2026</td>
+        <td><input type="checkbox"></td>
+      </tr>
+    </table>
+  </section>
+</main>
+<footer><p>Chirila Denis, Elements of Web Design, Sem 2</p></footer>
+</body>
