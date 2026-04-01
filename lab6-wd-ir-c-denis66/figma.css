@@ -1,0 +1,890 @@
+/* Frame 1 */
+
+position: absolute;
+width: 1422px;
+height: 911px;
+left: 203px;
+top: 407px;
+
+
+
+/* Group 1 */
+
+position: absolute;
+width: 1200px;
+height: 738px;
+left: calc(50% - 1200px/2 + 12px);
+top: calc(50% - 738px/2 - 7.5px);
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1200px;
+height: 734px;
+left: 123px;
+top: 81px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 600px;
+height: 738px;
+left: calc(50% - 600px/2 + 312px);
+top: 79px;
+
+background: url(fundalLOGARE.png);
+border-radius: 0px 50px 50px 0px;
+
+
+/* LogoUVT 1 */
+
+position: absolute;
+width: 204px;
+height: 191px;
+left: 921px;
+top: 159px;
+
+background: url(LogoUVT.png);
+
+
+/* The UVT Intranet Portal is in continuous developement, providing useful information for UVT students and staff about e-uvt services */
+
+position: absolute;
+width: 369px;
+height: 88px;
+left: 838px;
+top: 439px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 3 */
+
+position: absolute;
+width: 340px;
+height: 75px;
+left: 853px;
+top: 598px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 340px;
+height: 75px;
+left: 853px;
+top: 598px;
+
+background: #3269A8;
+border: 2px solid #FFFFFF;
+
+
+/* UVT Intranet */
+
+position: absolute;
+width: 193px;
+height: 39px;
+left: 927px;
+top: 616px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 2 */
+
+position: absolute;
+width: 523px;
+height: 630px;
+left: 187px;
+top: 143px;
+
+
+
+/* Group 7 */
+
+position: absolute;
+width: 405px;
+height: 86px;
+left: 206px;
+top: 143px;
+
+
+
+/* Authentification */
+
+position: absolute;
+width: 405px;
+height: 31px;
+left: 206px;
+top: 143px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+text-align: center;
+
+color: #0003A7;
+
+
+
+/* Service: Web Design */
+
+position: absolute;
+width: 234px;
+height: 29px;
+left: 291px;
+top: 200px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Group 6 */
+
+position: absolute;
+width: 411px;
+height: 86px;
+left: 203px;
+top: 324px;
+
+
+
+/* Email */
+
+position: absolute;
+width: 61px;
+height: 26px;
+left: 203px;
+top: 324px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #4042D5;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 411px;
+height: 50px;
+left: 203px;
+top: 360px;
+
+background: #FFFFFF;
+border: 1px solid #BDB7B7;
+border-radius: 12px;
+
+
+/* denis.chirila06@e-uvt.ro */
+
+position: absolute;
+width: 209px;
+height: 22px;
+left: 214px;
+top: 374px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Group 5 */
+
+position: absolute;
+width: 411px;
+height: 80px;
+left: 203px;
+top: 483px;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 411px;
+height: 50px;
+left: 203px;
+top: 513px;
+
+background: #FFFFFF;
+border: 1px solid #BDB7B7;
+border-radius: 12px;
+
+
+/* ••••••• */
+
+position: absolute;
+width: 71px;
+height: 22px;
+left: 217px;
+top: 527px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Parolă */
+
+position: absolute;
+width: 99px;
+height: 26px;
+left: 203px;
+top: 483px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #4042D5;
+
+
+
+/* Forgot Your password? */
+
+position: absolute;
+width: 261px;
+height: 29px;
+left: 449px;
+top: 589px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #EE9608;
+
+
+
+/* Group 8 */
+
+position: absolute;
+width: 411px;
+height: 120px;
+left: 203px;
+top: 653px;
+
+
+
+/* Group 4 */
+
+position: absolute;
+width: 411px;
+height: 50px;
+left: 203px;
+top: 653px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 411px;
+height: 50px;
+left: 203px;
+top: 653px;
+
+background: #DDC122;
+border: 1px solid #BDB7B7;
+
+
+/* Authentification */
+
+position: absolute;
+width: 180px;
+height: 29px;
+left: 318px;
+top: 663px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #F0F0F0;
+
+
+
+/* Single login for access to all e-UVT digital services */
+
+position: absolute;
+width: 337px;
+height: 48px;
+left: 241px;
+top: 725px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #2348E0;
+
+
+
+/* Group 9 */
+
+position: absolute;
+width: 203px;
+height: 24px;
+left: 187px;
+top: 592px;
+
+
+
+/* Keep me logged in */
+
+position: absolute;
+width: 176px;
+height: 24px;
+left: 214px;
+top: 592px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 187px;
+top: 594px;
+
+background: #D9D9D9;
+
+
+/* ©2026 West University of Timisoara | Data Digization and Analysis */
+
+position: absolute;
+width: 630px;
+height: 24px;
+left: 409px;
+top: 845px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #2672C9;
+
+
+
+/* Frame 1 */
+
+position: absolute;
+width: 1422px;
+height: 911px;
+left: 203px;
+top: 407px;
+
+
+
+/* Group 1 */
+
+position: absolute;
+width: 1338px;
+height: 738px;
+left: 17px;
+top: 39px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 600px;
+height: 738px;
+left: calc(50% - 600px/2 - 394px);
+top: 39px;
+
+background: #FFFFFF;
+border-radius: 0px 50px 50px 0px;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1200px;
+height: 734px;
+left: 155px;
+top: 41px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+
+
+/* The UVT Intranet Portal is in continuous developement, providing useful information for UVT students and staff about e-uvt services */
+
+position: absolute;
+width: 369px;
+height: 88px;
+left: 871px;
+top: 396px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* LogoUVT 1 */
+
+position: absolute;
+width: 204px;
+height: 191px;
+left: 953px;
+top: 119px;
+
+background: url(LogoUVT.png);
+
+
+/* Group 3 */
+
+position: absolute;
+width: 340px;
+height: 75px;
+left: 853px;
+top: 598px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 340px;
+height: 75px;
+left: 853px;
+top: 598px;
+
+background: #3269A8;
+border: 2px solid #FFFFFF;
+
+
+/* UVT Intranet */
+
+position: absolute;
+width: 193px;
+height: 39px;
+left: 927px;
+top: 616px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 2 */
+
+position: absolute;
+width: 719px;
+height: 630px;
+left: -9px;
+top: 143px;
+
+
+
+/* Group 7 */
+
+position: absolute;
+width: 468px;
+height: 115px;
+left: -9px;
+top: 143px;
+
+
+
+/* Authentification */
+
+position: absolute;
+width: 405px;
+height: 31px;
+left: 22px;
+top: 143px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+text-align: center;
+
+color: #0003A7;
+
+
+
+/* Service: Web Design */
+
+position: absolute;
+width: 468px;
+height: 58px;
+right: 963px;
+top: 200px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Group 6 */
+
+position: absolute;
+width: 411px;
+height: 97px;
+left: 19px;
+top: 311px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+height: 50px;
+left: 19px;
+right: 992px;
+bottom: 503px;
+
+background: #FFFFFF;
+border: 1px solid #BDB7B7;
+border-radius: 12px;
+
+
+/* Email */
+
+position: absolute;
+width: 61px;
+height: 29px;
+right: 1342px;
+top: 311px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* denis.chirila06@e-uvt.ro */
+
+position: absolute;
+width: 209px;
+height: 22px;
+left: 214px;
+top: 374px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Group 5 */
+
+position: absolute;
+width: 411px;
+height: 252px;
+left: 19px;
+top: 311px;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 411px;
+height: 50px;
+left: 19px;
+top: 513px;
+
+background: #FFFFFF;
+border: 1px solid #BDB7B7;
+border-radius: 12px;
+
+
+/* ••••••• */
+
+position: absolute;
+width: 71px;
+height: 22px;
+left: 217px;
+top: 527px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Parolă */
+
+position: absolute;
+width: 71px;
+height: 29px;
+left: 19px;
+top: 311px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Forgot Your password? */
+
+position: absolute;
+width: 261px;
+height: 29px;
+left: 449px;
+top: 589px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #EE9608;
+
+
+
+/* Group 8 */
+
+position: absolute;
+width: 559px;
+height: 415px;
+left: 19px;
+top: 358px;
+
+
+
+/* Group 4 */
+
+position: absolute;
+width: 479px;
+height: 334px;
+left: 19px;
+top: 358px;
+
+
+
+/* Authentification */
+
+position: absolute;
+width: 180px;
+height: 29px;
+left: 318px;
+top: 663px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #F0F0F0;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+height: 50px;
+left: 19px;
+right: 992px;
+bottom: 503px;
+
+background: #DDC122;
+border: 1px solid #BDB7B7;
+
+
+/* Single login for access to all e-UVT digital services */
+
+position: absolute;
+width: 337px;
+height: 48px;
+left: 241px;
+top: 725px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #2348E0;
+
+
+
+/* Group 9 */
+
+position: absolute;
+width: 203px;
+height: 24px;
+left: 187px;
+top: 592px;
+
+
+
+/* Keep me logged in */
+
+position: absolute;
+width: 176px;
+height: 24px;
+left: 214px;
+top: 592px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 187px;
+top: 594px;
+
+background: #D9D9D9;
+
+
+/* ©2026 West University of Timisoara | Data Digization and Analysis */
+
+position: absolute;
+width: 630px;
+height: 24px;
+left: 409px;
+top: 845px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #2672C9;
+
