@@ -1,0 +1,49 @@
+tr:nth-child(even) td {
+    background-color: #4736a593;
+}
+td, th {
+    border: 4px solid #b423d8;
+}
+table {
+    border-collapse: collapse;
+    width: 60%;
+}
+
+body{
+    background-color: rgb(160, 209, 224);
+}
+
+h1{
+    text-align: center;
+    padding: 1%;
+    background-color: rgb(35, 16, 207);
+    color: white;
+}
+
+fieldset{
+    background-color: rgb(20, 213, 247);
+    border: 2px solid rgba(55, 0, 255, 0.781);
+    width: fit-content;
+    border-radius: 5%;
+    margin: 4px;
+}
+section{
+    border: 2px solid rgb(36, 14, 231);
+    padding: 10px;
+    background-color: rgba(102, 171, 235, 0.411);
+}
+
+button{
+    margin-top: 5px;
+    color: white;
+    background-color: rgba(65, 21, 168, 0.726);
+}
+
+footer{
+    background-color: rgb(103, 190, 240);
+    color: #6800f0;
+    text-align: center;
+}
+main{
+    padding-bottom: 5%;
+}
