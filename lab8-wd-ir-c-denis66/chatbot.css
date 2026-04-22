@@ -1,0 +1,30 @@
+/* CSS styles */
+body {
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:500%;
+    margin: 10px;
+    flex-direction: column;
+}
+
+.chat-container {
+    max-width: 80%;
+    width: 40%;
+    height: 40%;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 10px;
+    overflow-y: auto;
+}
+
+.message {
+    margin-bottom: 10px;
+}
+
+#chat-form {
+    display: flex;
+};

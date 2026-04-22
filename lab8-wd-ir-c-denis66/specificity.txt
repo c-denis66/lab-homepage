@@ -1,0 +1,8 @@
+Paragraph A uses the styling from the element selector <p> because it has no class or id
+Paragraph B uses the styling from the class "info", overwriting the element selector <p> styling because its more specific
+Paragraph C uses the "warning" style, because it's id is "warning", and that gives it higher priority over <p>
+Paragraph D uses #warning.info because it has both the id and the class required by that style
+
+Paragraph D uses the color of #warning.info because it's the most specific rule that it fits, but it also inherits the font style from #warning over .info because the call by id has higher priority.
+
+the <h1> tag uses the font from the style.css, adding over it the changes made in the html, if any of the tags were to be the same, the ones in the html file would be applies instead of the ones from style.css
