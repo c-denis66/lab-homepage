@@ -1,0 +1,163 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+  <style>
+.custom-table {
+    width: 100%;
+    max-width: 500px;
+    border-spacing: 0;
+    border-radius: 15px;
+    overflow: hidden;
+    border: 1px
+
+}
+
+.table-title {
+    background-color: #512da8;
+    color: white;
+    padding: 15px;
+    font-size: 14px;
+}
+
+.side-category {
+    background-color: #7e57c2;
+    color: white;
+    text-align: left;
+    padding: 15px;
+    font-weight: bold;
+    width: 30%;
+}
+
+td {
+
+    background-color: white;
+    border-bottom: 1px solid #eee;
+    color: #000000;
+}
+
+tr:nth-child(even) td {
+    background-color: #dbbfe4;
+}
+  </style>
+    <meta charset="utf-8">
+    <title>Laboratory</title></head>
+<body>
+    <header>
+    <h1>First laboratory</h1>
+<nav aria-label="Main navigation">
+  <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="contact.html">Contact</a></li>
+    <li><a href="chatbot.html">Chatbot</a></li>
+  </ul>
+</nav>
+</header>
+<main>
+<section>
+    <h2>I am Chirila Denis, first year at the Faculty of Computer Science and i want to get used to HTML</h2>
+    <img src="https://assets.puzzlefactory.com/puzzle/173/718/original.webp" alt="un copac de toamna">
+</section>
+
+<table class="custom-table">
+    <thead>
+        <tr>
+            <th scope="col" colspan="3" class="table-title">Personal Skills</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row" rowspan="3" class="side-category">Code Languages</th>
+            <td>HTML</td>
+            <td style="background-color: #e8f5e9; color: #2e7d32;">JavaScript</td>
+        </tr>
+        <tr>
+            <td>C/C++</td>
+            <td>Python</td>
+        </tr>
+        <tr>
+            <td style="background-color: #ffebee; color: #c62828;">Java</td>
+            <td>PHP</td>
+        </tr>
+        <tr>
+            <th scope="row" rowspan="4" class="side-category">Design</th>
+            <td colspan="2">Figma</td>
+        </tr>
+        <tr>
+            <td colspan="2">Audio</td>
+        </tr>
+        <tr>
+            <td colspan="2">Photoshop</td>
+        </tr>
+        <tr>
+            <td colspan="2">UI/UX</td>
+        </tr>
+        <tr>
+            <th scope="row" class="side-category">Other</th>
+            <td colspan="2">Git</td>
+        </tr>
+    </tbody>
+</table>
+
+<table border="1">
+  <caption>Personal Projects</caption>
+  <th>Project Name</th>
+  <th>Description</th>
+  <th>Technologies</th>
+  <th>Difficulty</th>
+  <th>Link</th>
+  <tr>
+    <td>Movie Review site</td>
+    <td>A site that allows you to sort movies by<br> name/reviews and to rate them</td>
+    <td>
+      <ul>
+        <li>HTML</li>
+        <li>PHP</li>
+      </ul>
+    </td>
+    <td>
+      <select>
+        <option>Low</option>
+        <option>Medium</option>
+        <option>High</option>
+      </select>
+    </td>
+    <td><a href="">moviesite.com</a></td>
+  </tr>
+
+    <tr>
+    <td>Snake</td>
+    <td>I remade snake</td>
+    <td>
+      <ul>
+        <li>Python</li>
+
+      </ul>
+    </td>
+    <td>
+      <select>
+        <option>Low</option>
+        <option>Medium</option>
+        <option>High</option>
+      </select>
+    </td>
+    <td>Not Available</td>
+  </tr>
+
+    <tr>
+    <td></td>
+    <td>TBD</td>
+    <td>
+    </td>
+    <td>
+      <select>
+        <option>Low</option>
+        <option>Medium</option>
+        <option>High</option>
+      </select>
+    </td>
+  </tr>
+</table>
+</main>
+<footer><p>Chirila Denis, Elements of Web Design, Sem 2</p></footer>
+</body>
+</html>
